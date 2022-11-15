@@ -1,0 +1,53 @@
+print Drawing figures
+angle is 140
+turn angle
+forward 190
+angle is 270
+turn angle
+forward 190
+turn angle
+forward 200
+turn angle
+forward 200
+angle is 220
+turn angle
+forward 265
+
+
+
+turn 180
+forward 300
+turn 90
+forward 100
+turn 270
+forward 100
+turn 180
+
+arm is 120
+angle is 72
+
+turn angle
+forward arm
+turn angle
+forward arm
+turn angle
+forward arm
+turn angle
+forward arm
+turn angle
+forward arm
+
+arm is 194
+angle is 144
+
+turn 324
+turn angle
+forward arm
+turn angle
+forward arm
+turn angle
+forward arm
+turn angle
+forward arm
+turn angle
+forward arm
